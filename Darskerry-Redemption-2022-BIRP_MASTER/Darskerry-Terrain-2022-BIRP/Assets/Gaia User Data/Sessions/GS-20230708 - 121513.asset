@@ -1,0 +1,794 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20230708 - 121513
+  m_EditorClassIdentifier: 
+  m_name: Session 20230708-121513
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 08/07/2023 12:15:13
+  m_terrainWidth: 1000
+  m_terrainDepth: 1000
+  m_terrainHeight: 1000
+  m_seaLevel: 25
+  m_spawnDensity: 1
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 12:21:13
+    scriptableObjectAssetGUID: ba58ca93c9aa55446bd83dcc89cf4b50
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 12:24:39
+    scriptableObjectAssetGUID: c81fd5ad614038f4aa691833c4023c4a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 12:26:33
+    scriptableObjectAssetGUID: a324efc856c937b44870b38ca19c6e4e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Dense Forest Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 15:18:38
+    scriptableObjectAssetGUID: 10f018860cf444041ace91992b321782
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Dense Forest Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 15:24:27
+    scriptableObjectAssetGUID: 44de0471ee951da4291bcb5d31ce02f8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Dense Forest Grass
+      and Flowers(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 15:27:07
+    scriptableObjectAssetGUID: b053bfdc49df9874db37e1179061d259
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Meadow Rocks and
+      Stones(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:10:13
+    scriptableObjectAssetGUID: bac2893db3f58be4089d116f146e122e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (13)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:14:07
+    scriptableObjectAssetGUID: 8363d8c97e7cb53429dfbcf5838d007d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:17:08
+    scriptableObjectAssetGUID: 14d6d8cf2f60e42409d470828749bd63
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (13)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:19:13
+    scriptableObjectAssetGUID: c44de9c5c7b3bf74188f21569d20d95b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Audio(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:22:52
+    scriptableObjectAssetGUID: 9c98dfc59ba78fd42a1f8c113a034f3b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (13)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:25:12
+    scriptableObjectAssetGUID: d2950559257044b4dba2a453b642a9a5
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (14)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:25:23
+    scriptableObjectAssetGUID: fd04f2f51e7953440ab0d5a730c65223
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:25:46
+    scriptableObjectAssetGUID: d35c0a73e02946448b7ae02f778ff132
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:26:37
+    scriptableObjectAssetGUID: cd1d5053c42e1124b9273b86d8f5f751
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:26:48
+    scriptableObjectAssetGUID: 10b34b8f44accbb4e9f56c55c1463ddb
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:29:42
+    scriptableObjectAssetGUID: ef4675085183eff4f8e730284431daf7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:29:46
+    scriptableObjectAssetGUID: 0dfabede87102684d8024d844cd4d273
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:29:51
+    scriptableObjectAssetGUID: d4b814ec8e6c42a4c885d948a64c9bb9
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:30:03
+    scriptableObjectAssetGUID: 1d95a760770e649409f87e481c5e1781
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:30:32
+    scriptableObjectAssetGUID: ad9c085b33767c64f9d9c88e2f8cad31
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:30:40
+    scriptableObjectAssetGUID: b26a3a31f16a0194a99a223163c3ea2e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:31:44
+    scriptableObjectAssetGUID: 24c6de1e0f24f6d479e6edf9986b0158
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:32:05
+    scriptableObjectAssetGUID: d860f73292a54894796d2007cff98386
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:32:52
+    scriptableObjectAssetGUID: 2898dddb04ef79c478e5fe4a2613972b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:33:36
+    scriptableObjectAssetGUID: eb84f54d69b5d184ca380d0b35b5bc66
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:34:35
+    scriptableObjectAssetGUID: 14726a2561bf6774db182375b98bb484
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:35:03
+    scriptableObjectAssetGUID: db4d3671c4f6c1a41a840fc8cb4cdd7d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:35:45
+    scriptableObjectAssetGUID: bd6ae45dad0f1c24ea7d06c92638ad70
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:37:34
+    scriptableObjectAssetGUID: 27c2811afa5897548affa521c9e792ed
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:37:41
+    scriptableObjectAssetGUID: 3ecf2332d1439cc42926c96b488f9658
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:37:53
+    scriptableObjectAssetGUID: 1b39b88bd61e410468a662fa9870c9a5
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:38:00
+    scriptableObjectAssetGUID: 25863f06ade05124c948e8be15b32116
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:40:14
+    scriptableObjectAssetGUID: 83f8fcb9606002244a29d22ebe778a9a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:41:36
+    scriptableObjectAssetGUID: 5b1c3ad0f83100247bf87c54ee904934
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (14)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:41:47
+    scriptableObjectAssetGUID: 93e4d6c81b2a6e44483582dcc8dba104
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs SpawnExt Probes, CurrentTerrainOnly,
+      AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:42:04
+    scriptableObjectAssetGUID: 743baa2814c21b5478570bc31b4b165d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (14)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:42:09
+    scriptableObjectAssetGUID: 70dc2877a06ad2c40aa38d5322c17ba6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:42:21
+    scriptableObjectAssetGUID: ec4668e81595dd142a1d8b34159c8d10
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs SpawnExt Probes, CurrentTerrainOnly,
+      AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:44:00
+    scriptableObjectAssetGUID: 20458b8f672ce254bace30b3e81b1727
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (14)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 08/07/2023 17:44:03
+    scriptableObjectAssetGUID: 00d4d85ccbf963245a3a1c2d8cd5d938
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (14)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 11/07/2023 19:38:24
+    scriptableObjectAssetGUID: 767430314f423a64dba59b13582403a3
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs SpawnExt Probes, CurrentTerrainOnly,
+      AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 12/07/2023 12:43:43
+    scriptableObjectAssetGUID: 76da19632a0472248b568fe462855b46
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (15)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 12/07/2023 12:43:47
+    scriptableObjectAssetGUID: 6684ac426009efb4498ec0ef9034c7b0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 12/07/2023 13:27:04
+    scriptableObjectAssetGUID: bc508f52c72ae9840a1fa6bf19113a53
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 12/07/2023 13:31:09
+    scriptableObjectAssetGUID: f1016e89f739dc64cbc7b68192d21f8a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (17)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 12/07/2023 14:33:16
+    scriptableObjectAssetGUID: b8e06dc2735ff43478bc1b423917abe6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Flower Garden
+      2(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 12/07/2023 14:36:45
+    scriptableObjectAssetGUID: 8ca553372b27a4a4584ee15504a2f7de
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Flower Garden
+      2(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 12/07/2023 14:37:12
+    scriptableObjectAssetGUID: 964fb2b59ff892e44bf2b402a7c3e784
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Flower Garden
+      2(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 12/07/2023 14:39:06
+    scriptableObjectAssetGUID: bbf58ed8b741c094083bcf7de2871ec1
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Flower Garden
+      1(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 12/07/2023 14:39:51
+    scriptableObjectAssetGUID: 99d28e7bc0a77c94794255755756376d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Flower Garden
+      2(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 12/07/2023 14:40:24
+    scriptableObjectAssetGUID: eb1298fc45c23aa47a57ae309fb535c7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Flower Garden
+      2(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 12/07/2023 14:40:42
+    scriptableObjectAssetGUID: 2e1af095167ee204690230d12c7f45ef
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Flower Garden
+      2(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 12/07/2023 14:42:00
+    scriptableObjectAssetGUID: d80db9f9bceef334abda5481dfda4892
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Flower Garden
+      1(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 12/07/2023 14:42:46
+    scriptableObjectAssetGUID: 2bbc27e773e586743a7f20b9e627be2d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (17)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 12/07/2023 14:43:42
+    scriptableObjectAssetGUID: 8b9b3cd4b4eee054ea0a360e7aa98bb7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Custom Flower Meadow Microsplat Game-Field Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Game Terrain
+    m_operationDateTime: 12/07/2023 15:44:38
+    scriptableObjectAssetGUID: b29185625e38ba1418b2ffad0cfea344
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: 88716b9605971814ea278a6893533bce
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 149.50789
+  m_bakedMaskCacheEntries:
+  - fileName: Game Terrain_RadiusTree_System.Collections.Generic.List`1[System.Int32]_1
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_RadiusTree_System.Collections.Generic.List`1[System.Int32]_1
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_RadiusTree_System.Collections.Generic.List`1[System.Int32]_1
+    texture: {fileID: 0}
+  - fileName: Game Terrain_LayerGameObject_198656_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_LayerGameObject_198656_0
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_LayerGameObject_198656_0
+    texture: {fileID: 0}
+  - fileName: Game Terrain_LayerGameObject_16384_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_LayerGameObject_16384_0
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_LayerGameObject_16384_0
+    texture: {fileID: 0}
+  - fileName: Game Terrain_LayerGameObject_122746880_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_LayerGameObject_122746880_0
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_LayerGameObject_122746880_0
+    texture: {fileID: 0}
+  - fileName: Game Terrain_RadiusTree_System.Collections.Generic.List`1[System.Int32]_3
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_RadiusTree_System.Collections.Generic.List`1[System.Int32]_3
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_RadiusTree_System.Collections.Generic.List`1[System.Int32]_3
+    texture: {fileID: 0}
+  - fileName: Game Terrain_LayerGameObject_1270874112_1
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_LayerGameObject_1270874112_1
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_LayerGameObject_1270874112_1
+    texture: {fileID: 0}
+  - fileName: Game Terrain_LayerGameObject_67108864_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_LayerGameObject_67108864_0
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_LayerGameObject_67108864_0
+    texture: {fileID: 0}
+  - fileName: Game Terrain_RadiusTree_System.Collections.Generic.List`1[System.Int32]_5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_RadiusTree_System.Collections.Generic.List`1[System.Int32]_5
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_RadiusTree_System.Collections.Generic.List`1[System.Int32]_5
+    texture: {fileID: 0}
+  - fileName: Game Terrain_LayerGameObject_1341128704_1
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_LayerGameObject_1341128704_1
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_LayerGameObject_1341128704_1
+    texture: {fileID: 0}
+  - fileName: Game Terrain_RadiusTree_System.Collections.Generic.List`1[System.Int32]_1.03
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_RadiusTree_System.Collections.Generic.List`1[System.Int32]_1.03
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_RadiusTree_System.Collections.Generic.List`1[System.Int32]_1.03
+    texture: {fileID: 0}
+  - fileName: Game Terrain_LayerGameObject_64_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_LayerGameObject_64_0
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_LayerGameObject_64_0
+    texture: {fileID: 0}
+  - fileName: Game Terrain_LayerGameObject_123205632_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_LayerGameObject_123205632_0
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_LayerGameObject_123205632_0
+    texture: {fileID: 0}
+  - fileName: Game Terrain_LayerGameObject_29360128_1
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_LayerGameObject_29360128_1
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_LayerGameObject_29360128_1
+    texture: {fileID: 0}
+  - fileName: Game Terrain_RadiusTree_System.Collections.Generic.List`1[System.Int32]_1.16
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_RadiusTree_System.Collections.Generic.List`1[System.Int32]_1.16
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_RadiusTree_System.Collections.Generic.List`1[System.Int32]_1.16
+    texture: {fileID: 0}
+  - fileName: Game Terrain_LayerGameObject_1270874112_2
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_LayerGameObject_1270874112_2
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_LayerGameObject_1270874112_2
+    texture: {fileID: 0}
+  - fileName: Game Terrain_RadiusTree_System.Collections.Generic.List`1[System.Int32]_7
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_RadiusTree_System.Collections.Generic.List`1[System.Int32]_7
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_RadiusTree_System.Collections.Generic.List`1[System.Int32]_7
+    texture: {fileID: 0}
+  - fileName: Game Terrain_LayerGameObject_1330642944_1
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_LayerGameObject_1330642944_1
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_LayerGameObject_1330642944_1
+    texture: {fileID: 0}
+  - fileName: Game Terrain_LayerGameObject_65536_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_LayerGameObject_65536_0
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_LayerGameObject_65536_0
+    texture: {fileID: 0}
+  - fileName: Game Terrain_LayerGameObject_131072_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Game Terrain/Game
+      Terrain_LayerGameObject_131072_0
+    fullPath: E:/Dev/DaftAppleGames/Darkserry-Redemption/Darskerry-Redemption-MASTER/Darskerry-Terrain-2022-BIRP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Game Terrain/Game Terrain_LayerGameObject_131072_0
+    texture: {fileID: 0}
+  m_worldBiomeMaskSettings: {fileID: 0}

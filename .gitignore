@@ -1,0 +1,6 @@
+# gitignore for Darskerry Redemption resources
+
+# Staging and WIP to be excluded
+
+/Darskerry-Package-STAGING/
+/Darskerry-WIP Builds/

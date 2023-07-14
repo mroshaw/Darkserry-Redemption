@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bf92fbb0b75a234485533d73008be6f, type: 3}
+  m_Name: BetterBakeryEditorSettings
+  m_EditorClassIdentifier: 
+  UserRenderMode: 1
+  RenderDirMode: 2
+  ForceRebuildGeometry: 1
+  AdjustSamples: 0
+  UnloadScenes: 0
+  ForceRefresh: 0
+  Denoise: 0
+  Denoise2x: 0
+  FixSeams: 0
+  SplitByScene: 0
+  SplitByTag: 0
+  UVPaddingMax: 0
+  Bounces: 5
+  GISamples: 16
+  GIBackFaceWeight: 0
+  TileSize: 512
+  Priority: 2
+  TexelsPerUnit: 20
+  PerformRendering: 1
+  DistanceShadowmask: 0
+  SettingsMode: 0
+  Encode: 1
+  EncodeMode: 0
+  OverwriteWarning: 0
+  AutoAtlas: 1
+  UnwrapUVs: 1
+  ForceDisableUnwrapUVs: 0
+  MaxAutoResolution: 4096
+  MinAutoResolution: 16
+  GILODMode: 2
+  GILODModeEnabled: 0
+  CheckOverlaps: 0
+  SkipOutOfBoundsUVs: 1
+  HackEmissiveBoost: 1
+  HackIndirectBoost: 1
+  TempPath: 
+  OutPath: 
+  UseScenePath: 0
+  HackAOIntensity: 0
+  HackAOSamples: 16
+  HackAORadius: 1
+  ShowAOSettings: 0
+  ShowTasks: 1
+  ShowTasks2: 0
+  ShowPaths: 1
+  ShowNet: 1
+  OcclusionProbes: 0
+  TexelsPerMap: 0
+  TexelsColor: 1
+  TexelsMask: 1
+  TexelsDir: 1
+  ShowDirWarning: 1
+  ShowCheckerSettings: 0
+  SamplesWarning: 1
+  SuppressPopups: 0
+  PrefabWarning: 1
+  PostPacking: 1
+  HoleFilling: 0
+  BeepOnFinish: 0
+  ExportTerrainAsHeightmap: 0
+  RTXMode: 1
+  LightProbeMode: 1
+  ClientMode: 0
+  ServerAddress: 127.0.0.1
+  Unwrapper: 0
+  DenoiserType: 100
+  ExportTerrainTrees: 0
+  ShowPerf: 1
+  SampleDiv: 1
+  AtlasPacker: 1
+  BatchPoints: 1
+  CompressVolumes: 0
+  Sector: {fileID: 0}
+  RTPVExport: 1
+  RTPVSceneView: 0
+  RTPVHDR: 0
+  RTPVWidth: 640
+  RTPVHeight: 360

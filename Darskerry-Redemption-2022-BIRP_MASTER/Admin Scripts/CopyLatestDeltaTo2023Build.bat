@@ -1,0 +1,2 @@
+set source=E:\Dev\DaftAppleGames\Darkserry-Redemption\Darskerry-Redemption-MASTER\Darskerry-Game-BIRP
+set target=E:\Dev\DaftAppleGames\Darkserry-Redemption-2023\Darskerry-Redemption-MASTER\Darskerry-Game-2023-BIRP

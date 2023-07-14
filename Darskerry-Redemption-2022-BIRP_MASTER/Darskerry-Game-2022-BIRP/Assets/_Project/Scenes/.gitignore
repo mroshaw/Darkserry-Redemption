@@ -1,0 +1,5 @@
+# gitignore for DaftAppleGames scenes
+
+# Not interested in "Working" scenes, so always exclude
+
+/Working/

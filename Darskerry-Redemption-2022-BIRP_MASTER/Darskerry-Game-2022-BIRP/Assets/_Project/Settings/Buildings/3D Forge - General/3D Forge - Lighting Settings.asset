@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a96dec79c5ec3342b9f88dc394d0fb8, type: 3}
+  m_Name: 3D Forge - Lighting Settings
+  m_EditorClassIdentifier: 
+  createIfMissing: 0
+  spotLightMeshSearchStrings: []
+  spotLightMode: 1
+  spotLightRange: 3
+  spotLightIntensity: 4
+  spotLightColor: {r: 0, g: 0, b: 0, a: 0}
+  spotLightCullingMask:
+    serializedVersion: 2
+    m_Bits: 0
+  pointLightMeshSearchStrings: []
+  pointLightMode: 1
+  pointLightRange: 7
+  pointLightIntensity: 1.7
+  pointLightIndirectMultiplier: 0
+  pointLightShadowType: 2
+  pointLightShadowResolution: 1
+  pointLightBakedShadowRadius: 0.5
+  pointLightRenderMode: 0
+  pointLightColor: {r: 0.8901961, g: 0.77254903, b: 0.39215687, a: 0}
+  pointLightCullingMask:
+    serializedVersion: 2
+    m_Bits: 14682368
+  areaLightMeshSearchStrings: []
+  areaLightRange: 3
+  areaLightIntensity: 4
+  areaLightColor: {r: 0, g: 0, b: 0, a: 0}
+  areaLightcullingMask:
+    serializedVersion: 2
+    m_Bits: 0
+  directionalLightMeshSearchStrings: []
+  directionalLightRange: 3
+  directionalLightIntensity: 4
+  directionalLightColor: {r: 0, g: 0, b: 0, a: 0}
+  directionalLightcullingMask:
+    serializedVersion: 2
+    m_Bits: 0

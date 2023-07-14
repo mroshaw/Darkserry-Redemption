@@ -1,0 +1,6 @@
+# gitignore for Darskerry Redemption shared resources
+
+# Ensure only "private" assets are part of the repo.
+# We do not want to publish purchased assets, other peoples work.
+
+/Project Shared Assets/

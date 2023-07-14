@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af1c89896f5f7f6439ef1a93a23a0f3d, type: 3}
+  m_Name: AudioSurface - Dirt
+  m_EditorClassIdentifier: 
+  audioMixerGroup: {fileID: -8991655405756310492, guid: d4cb3dd8c857cad4599292f12c8e37c2, type: 2}
+  TextureOrMaterialNames:
+  - GeNa_DirtRoad_D
+  - PW_Forest_Path_D
+  - T_Ground_Dirt_01_A_Sm
+  - forest-trail1-albedo
+  - T_Ground_18_Stones_Road_BC_SM
+  audioClips: []
+  audioSourcePrefab: {fileID: 3493597096861683015, guid: b56bd42abe704af4b878a76d69b63eb9, type: 3}
+  particleFxPrefab: {fileID: 135586, guid: 2463917afd807b64894902d504b4049f, type: 3}
+  stepHumanPrefab: {fileID: 184202, guid: 28b6d59b59cb64a48bf6362c1647ffa8, type: 3}
+  stepHorsePrefab: {fileID: 0}
+  stepLayer:
+    serializedVersion: 2
+    m_Bits: 1
+  timeToDestroy: 5
